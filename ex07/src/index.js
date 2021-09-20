@@ -12,7 +12,7 @@ addThree();
 addFive();
 // Only change code above this line
 
-module.exports = [
+module.exports = {
     addThree,
     addFive
-];
+};
