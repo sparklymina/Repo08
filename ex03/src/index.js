@@ -1,12 +1,10 @@
 // Write code below this line
-    var myGlobalVariable= 10;
-
     function function1(){
         console.log();
         notGlobalVariable = 5;
     }
-
-// Write code above this line
+    var myGlobalVariable= 10;
+    // Write code above this line
 function function2(){
     var result = "";
     if (typeof myGlobalVariable != "undefined") {
@@ -17,7 +15,6 @@ function function2(){
     }
     console.log(result);
 }
-
 function1();
 function2();
 module.exports = {
