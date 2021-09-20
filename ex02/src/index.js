@@ -1,4 +1,4 @@
-// Write code below this ling
+// Write code below this line
     function functionPrintInfo(name, age){
         console.log(name, age);
     }

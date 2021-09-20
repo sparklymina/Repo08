@@ -1,4 +1,4 @@
-// Write code below this ling
+// Write code below this line
     var myGlobalVariable= 10;
 
     function function1(){
